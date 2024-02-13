@@ -106,7 +106,7 @@ var param = {
     from: [3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 18, 19, 20, 21, 22, 23, 24, 25, 26, 29, 30, 31, 32, 33, 34],
     to:   [3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 18, 19, 20, 21, 22, 23, 24, 25, 26, 29, 30, 31, 32, 33, 34]
   },
-  yearsStable : [1985,2021], // Periodo año inicio y año de fin
+  yearsStable : [1985,2022], // Periodo año inicio y año de fin
   exclusion : {
     years: [
      // 1987, 1989
